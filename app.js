@@ -15,3 +15,7 @@ function checkAddress(fieldId){
     alert("email is required");
    }
 }
+function greet(){
+    console.log("hello")
+}
+greet()
